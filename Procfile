@@ -1,1 +1,1 @@
-web: python3 vcbot.py
+web: python3 -m vcbot
